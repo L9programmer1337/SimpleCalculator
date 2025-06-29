@@ -1,2 +1,7 @@
 # SimpleCalculator
-You could multiply, divide, add, or subtract with this simple calculator.
+You could:
+-multiply(*)
+-divide(/)
+-add(+)
+-subtract(-)
+2 numbers with this simple calculator.
