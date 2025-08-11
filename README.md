@@ -1,7 +1,11 @@
 # SimpleCalculator
-You could:
--multiply(*)
--divide(/)
--add(+)
--subtract(-)
-2 numbers with this simple calculator.
+You could the following with 2 inputs:
+- multiply (*)
+- divide (/)
+- add (+)
+- subtract (-)
+
+## Run the program
+```bash
+python calculator.py
+```
