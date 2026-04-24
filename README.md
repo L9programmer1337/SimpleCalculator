@@ -1,5 +1,5 @@
 # SimpleCalculator
-You could:
+You're able to:
 -multiply(*)
 -divide(/)
 -add(+)
